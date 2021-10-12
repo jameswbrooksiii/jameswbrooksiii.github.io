@@ -1,0 +1,19 @@
+ENGR 122 Design Expo Final Project: Smart Power Rack
+
+Group Members (From Left to Right in SmartPowerRackGroupPhoto.JPG)
+James Brooks, Trevor Sallee, Robert Strange, Trenton Choate
+
+About:
+For the Engineering 122 Final Project, we were tasked with designing and prototyping a working invention and to present it at an expo at the end of the quarter.
+
+Robert Strange approached the other three group members with his main idea.
+
+Previously, Robert Strange had suffered an injury that had occured while weightlifting: the bar had slipped and fell onto Robert's back. This was the main inspiration for the project.
+
+Robert Strange headed the project as Design Lead and Product Owner, and James Brooks, Trevor Sallee, and Trenton Choate all worked as Developers, assisting with fabrication, prototyping,
+testing, and programming.
+
+The final design was a wide, sturdy wooden frame (it could support all four of the group members sitting on it). It featured a pressure pad attached to the weight bar. When idle, a
+mechanical lock - comprised of two wooden blocks and gears - would be engaged by two servos pushing the blocks into the gears. This would lock the gears, creating enough tension on the
+cables to hold the weight bars in place. When the lifter was ready and the pressure pad was pressed, the servo locks would disengage, allowing the bar to be moved freely, and the cables
+would follow the bar up and down, ready to catch the bar again should the bar be let go of.
