@@ -1,8 +1,8 @@
 RpiA 1 Room Adventure Assignment: Isolation
 
 About: 
-This was a school assignment to create a text-based adventure game, where the user controls a character navigating multiple "rooms" by using a text-box input. This was one of the first
-projects I was entirely thrilled to work on, as I have always loved text-based adventure games and wanted to make my own. 
+This was a school assignment to create a text-based adventure game, where the user controls a character navigating multiple "rooms" by using a text-box input. This was one of the
+first projects I was entirely thrilled to work on, as I have always loved text-based adventure games and wanted to make my own. 
 
-I put a lot of work in making the (albeit, crude, paint, stick-figure) graphics update when a player took or used an item, and adding additional interactivity with items and a diverse 
-selection of rooms.
+I put a lot of work in making the (albeit crude, paint, stick-figure) graphics update when a player took or used an item, and adding additional interactivity with items and a
+diverse selection of rooms.
