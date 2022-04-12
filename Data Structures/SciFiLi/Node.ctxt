@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\r\n\ Author\:\ \ \ \ \ \ Drew\ Getsinger\ and\ James\ Brooks\r\n\ Date\:\ \ \ \ \ \ \ \ 11/13/20\r\n\ Project\:\ \ \ \ \ SciFiLi\r\n\ Description\:\ This\ file\ will\ contain\ the\ definition\ of\ a\ generic\ node\ to\ be\ used\ in\ linked\ lists.\r\n\ File\:\ \ \ \ \ \ \ \ Node.java\r\n
+comment1.params=
+comment1.target=Node()
+comment2.params=
+comment2.target=java.lang.Object\ getData()
+comment3.params=data
+comment3.target=void\ setData(java.lang.Object)
+comment4.params=
+comment4.target=Node\ getLink()
+comment5.params=link
+comment5.target=void\ setLink(Node)
+numComments=6

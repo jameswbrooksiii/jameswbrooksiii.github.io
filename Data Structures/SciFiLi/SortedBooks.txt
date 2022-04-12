@@ -1,0 +1,109 @@
+Sorted List of Statuses and Titles:
+Checked In	1984
+Checked In	20000 Leagues Under The Sea
+Checked In	2001: A Space Odyssey
+Checked Out	Alas Babylon
+Checked Out	American Gods
+Checked In	Anathem
+Checked In	Animal Farm
+Checked In	Belgariad
+Checked In	Book Of The New Sun
+Checked Out	Brave New World
+Checked Out	Canticle For Leibowitz
+Checked Out	Cat's Cradle
+Checked In	Caves Of Steel
+Checked In	Childhood's End
+Checked In	Chronicles Of Amber
+Checked Out	Chronicles Of Thomas Covenant The Unbeliever
+Checked In	Clockwork Orange
+Checked In	Codex Alera Series
+Checked In	Conan The Barbarian Series
+Checked In	Contact
+Checked In	Cryptonomicon
+Checked In	Crystal Cave
+Checked In	Culture Series
+Checked In	Dark Tower Series
+Checked In	Diamond Age
+Checked In	Dispossessed
+Checked Out	Do Androids Dream Of Electric Sheep?
+Checked In	Doomsday Book
+Checked In	Dragonflight
+Checked In	Dune Chronicles
+Checked Out	Elric Saga
+Checked Out	Ender's Game
+Checked Out	Eyre Affair
+Checked Out	Fahrenheit 451
+Checked In	Farseer Trilogy
+Checked In	Fire Upon The Deep
+Checked Out	Flowers For Algernon
+Checked In	Forever War
+Checked Out	Foundation Trilogy
+Checked In	Frankenstein
+Checked In	Going Postal
+Checked In	Handmaid's Tale
+Checked Out	Hard-boiled Wonderland and the End of the World
+Checked Out	Hitchhiker's Guide To The Galaxy
+Checked Out	Hunger Games Trilogy
+Checked Out	Hyperion
+Checked In	I Am Legend
+Checked In	I Robot
+Checked Out	Illustrated Man
+Checked Out	Inherit The Stars
+Checked In	Jonathan Strange & Mr Norrell
+Checked In	Journey To The Center Of The Earth
+Checked In	Kingkiller Chronicles
+Checked In	Kushiel's Legacy Series
+Checked In	Last Unicorn
+Checked In	Left Hand Of Darkness
+Checked In	Legend Of Drizzt Series
+Checked Out	Lord Of The Rings Trilogy
+Checked Out	Lucifer's Hammer
+Checked In	Malazan Book Of The Fallen Series
+Checked Out	Mars Trilogy
+Checked Out	Martian Chronicles
+Checked In	Mistborn Series
+Checked In	Mists Of Avalon
+Checked Out	Moon Is A Harsh Mistress
+Checked In	Mote In God's Eye
+Checked In	Neuromancer
+Checked Out	Neverwhere
+Checked Out	Old Man's War
+Checked Out	Once And Future King
+Checked In	Outlander Series
+Checked Out	Pastwatch
+Checked In	Perdido Street Station
+Checked Out	Princess Bride
+Checked Out	Ready Player One
+Checked In	Rendezvous With Rama
+Checked In	Riftwar Saga
+Checked In	Ringworld
+Checked Out	Sandman
+Checked In	Shannara Trilogy
+Checked In	Silmarillion
+Checked Out	Slaughterhouse-Five
+Checked In	Small Gods
+Checked In	Snow Crash
+Checked Out	Something Wicked This Way Comes
+Checked In	Song Of Ice And Fire Series
+Checked In	Space Trilogy
+Checked Out	Sparrow
+Checked In	Stardust
+Checked In	Starship Troopers
+Checked In	Stranger In A Strange Land
+Checked In	Sunshine
+Checked In	Sword Of Truth
+Checked In	The Road
+Checked Out	The Stand
+Checked In	Thrawn Trilogy
+Checked Out	Time Machine
+Checked Out	Time Traveler's Wife
+Checked Out	Tripods Series
+Checked In	Vorkosigan Saga
+Checked Out	War Of The Worlds
+Checked In	Watchmen
+Checked Out	Watership Down
+Checked In	Way Of Kings
+Checked In	Wheel Of Time Series
+Checked Out	Wicked
+Checked In	World War Z
+Checked In	Xanth Series

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Main\ here.\r\n\r\n\ James\ Brooks\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=data
+comment2.target=void\ addNode(int)
+comment3.params=prevData\ newData
+comment3.target=void\ insertNode(int,\ int)
+comment4.params=data
+comment4.target=void\ deleteNode(int)
+comment5.params=
+comment5.target=void\ printList()
+numComments=6

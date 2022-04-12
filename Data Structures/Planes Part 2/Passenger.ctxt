@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Passenger
+comment0.text=\r\n\ The\ Passenger\ Class.\r\n\r\n\ James\ Brooks\r\n\ 9/25/2020\r\n
+comment1.params=
+comment1.target=Passenger()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Passenger\r\n
+comment2.params=Name\ FoodPreference
+comment2.target=Passenger(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getFoodPreference()
+comment5.params=Name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=FoodPreference
+comment6.target=void\ setFoodPreference(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ passengerToString()
+numComments=8

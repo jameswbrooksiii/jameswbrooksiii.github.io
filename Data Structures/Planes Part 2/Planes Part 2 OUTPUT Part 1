@@ -1,0 +1,199 @@
+-----------------------------
+Please enter one of the following.
+0: Add Passenger
+1: List Planes
+2: List Passengers
+3: Display Food Count
+4: Find Passenger
+5: Find Plane
+6: Exit
+
+0
+Enter a Plane ID to add a passenger to.
+9002
+-----------------------------
+Running comparisons...
+COMPARE: 9002 TO 9017
+TOP: 14
+COMPARE: 9002 TO 9009
+TOP: 6
+COMPARE: 9002 TO 9005
+TOP: 2
+COMPARE: 9002 TO 9003
+TOP: 0
+Plane found.
+-----------------------------
+Enter a passenger name to add.
+Anderson
+Enter the passenger's food preference (chicken, pasta, or special).
+pasta
+Enter the passenger's row number (1 through 22).
+24
+Enter the passenger's seat number on row 24 (1 through 4).
+5
+-----------------------------
+That seat is already taken or doesn't exist! Here is a list of seats on Plane 9002 that are available:
+
+Row 1, Seat 2.
+Row 2, Seat 1.
+Row 2, Seat 3.
+Row 3, Seat 1.
+Row 3, Seat 3.
+Row 3, Seat 4.
+Row 4, Seat 1.
+Row 4, Seat 3.
+Row 6, Seat 1.
+Row 6, Seat 4.
+Row 7, Seat 1.
+Row 7, Seat 2.
+Row 7, Seat 3.
+Row 8, Seat 2.
+Row 8, Seat 4.
+Row 9, Seat 3.
+Row 9, Seat 4.
+Row 10, Seat 1.
+Row 10, Seat 2.
+Row 10, Seat 3.
+Row 11, Seat 2.
+Row 11, Seat 4.
+Row 12, Seat 1.
+Row 12, Seat 2.
+Row 13, Seat 2.
+Row 13, Seat 4.
+Row 14, Seat 4.
+Row 15, Seat 1.
+Row 15, Seat 2.
+Row 16, Seat 3.
+Row 17, Seat 1.
+Row 17, Seat 2.
+Row 17, Seat 4.
+Row 18, Seat 1.
+Row 18, Seat 2.
+Row 18, Seat 3.
+Row 19, Seat 2.
+Row 19, Seat 3.
+Row 19, Seat 4.
+Row 20, Seat 2.
+Row 20, Seat 3.
+Row 20, Seat 4.
+Row 21, Seat 2.
+Row 22, Seat 3.
+Row 22, Seat 4.
+-----------------------------
+Please enter one of the following.
+0: Add Passenger
+1: List Planes
+2: List Passengers
+3: Display Food Count
+4: Find Passenger
+5: Find Plane
+6: Exit
+
+1
+-----------------------------
+9002, Florida, 1, no, 22, 4, 42/88: Plane not full.
+9003, Chicago, 1, no, 24, 4, 20/96: Plane not full.
+9004, NYC, 1, yes, 32, 5, 79/160: Plane not full.
+9005, Florida, 1, yes, 32, 5, 32/160: Plane not full.
+9006, DC, 2, no, 22, 4, 33/88: Plane not full.
+9007, Boston, 2, no, 24, 4, 23/96: Plane not full.
+9008, Florida, 2, yes, 32, 5, 32/160: Plane not full.
+9009, NYC, 2, yes, 32, 5, 32/160: Plane not full.
+9010, Florida, 3, no, 22, 4, 51/88: Plane not full.
+9011, Chicago, 3, no, 24, 4, 30/96: Plane not full.
+9012, NYC, 3, yes, 32, 5, 33/160: Plane not full.
+9013, Florida, 3, yes, 32, 5, 112/160: Plane not full.
+9014, DC, 4, no, 22, 4, 28/88: Plane not full.
+9015, Boston, 4, no, 24, 4, 27/96: Plane not full.
+9016, Florida, 4, yes, 32, 5, 54/160: Plane not full.
+9017, NYC, 4, yes, 32, 5, 80/160: Plane not full.
+9018, Florida, 5, no, 22, 4, 27/88: Plane not full.
+9019, Chicago, 5, no, 24, 4, 23/96: Plane not full.
+9020, NYC, 5, yes, 32, 5, 27/160: Plane not full.
+9021, Florida, 5, yes, 32, 5, 78/160: Plane not full.
+9022, DC, 6, no, 22, 4, 20/88: Plane not full.
+9023, Boston, 6, no, 24, 4, 21/96: Plane not full.
+9024, Florida, 6, yes, 32, 5, 33/160: Plane not full.
+9025, NYC, 6, yes, 32, 5, 30/160: Plane not full.
+9026, Bahamas, 7, no, 22, 4, 32/88: Plane not full.
+9027, Jamaica, 7, no, 24, 4, 34/96: Plane not full.
+9028, London, 7, yes, 32, 5, 61/160: Plane not full.
+9029, Paris, 7, yes, 32, 5, 61/160: Plane not full.
+-----------------------------
+Please enter one of the following.
+0: Add Passenger
+1: List Planes
+2: List Passengers
+3: Display Food Count
+4: Find Passenger
+5: Find Plane
+6: Exit
+
+2
+Enter a Plane ID to display passengers for.
+9002
+-----------------------------
+Running comparisons...
+COMPARE: 9002 TO 9017
+TOP: 14
+COMPARE: 9002 TO 9009
+TOP: 6
+COMPARE: 9002 TO 9005
+TOP: 2
+COMPARE: 9002 TO 9003
+TOP: 0
+Plane found.
+-----------------------------
+Fmeeeeeeeebumg, special
+Boscii, special
+Palmarev, pasta
+Nurrisun, pasta
+Caviula, chicken
+vugg, chicken
+wchibli, pasta
+Brooks, chicken
+D'Agostino, chicken
+Lee, pasta
+wulli, pasta
+Hellligel, chicken
+Kip, pasta
+Bmynk, chicken
+Johanson, pasta
+Yodice, chicken
+Heiser, pasta
+Guasyi, chicken
+O'Neaill, pasta
+Jynyseeeek, pasta
+Nyland, pasta
+Farmer, special
+Stlayel, special
+Moreyn, chicken
+peKeown, chicken
+Latolle, pasta
+Manfra, pasta
+Weeeebeeeem, special
+Hill, pasta
+Jaekson, chicken
+Biglin, pasta
+Rudamar, chicken
+Beeeedymd, chicken
+Sisimon, chicken
+Yeeeepeeeez, chicken
+Rossini, pasta
+Ridmand, pasta
+isjimirindi, pasta
+McMihon, chicken
+Peellyck, pasta
+Kapp, special
+Antunev, chicken
+Myngeeneeee, special
+-----------------------------
+Please enter one of the following.
+0: Add Passenger
+1: List Planes
+2: List Passengers
+3: Display Food Count
+4: Find Passenger
+5: Find Plane
+6: Exit
+

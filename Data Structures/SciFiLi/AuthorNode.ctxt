@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=AuthorNode
+comment1.params=
+comment1.target=AuthorNode()
+comment10.params=v
+comment10.target=void\ setWorks(java.util.Vector)
+comment11.params=s
+comment11.target=void\ addWork(java.lang.String)
+comment2.params=s
+comment2.target=AuthorNode(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getAuthorName()
+comment4.params=data
+comment4.target=void\ setAuthorName(java.lang.String)
+comment5.params=
+comment5.target=AuthorNode\ getRight()
+comment6.params=link
+comment6.target=void\ setRight(AuthorNode)
+comment7.params=
+comment7.target=AuthorNode\ getLeft()
+comment8.params=link
+comment8.target=void\ setLeft(AuthorNode)
+comment9.params=
+comment9.target=java.util.Vector\ getWorks()
+numComments=12

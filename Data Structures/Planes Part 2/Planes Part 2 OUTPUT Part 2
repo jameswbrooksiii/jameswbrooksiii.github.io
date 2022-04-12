@@ -1,0 +1,199 @@
+TOP: 2
+COMPARE: 9002 TO 9003
+TOP: 0
+Plane found.
+-----------------------------
+Fmeeeeeeeebumg, special
+Boscii, special
+Palmarev, pasta
+Nurrisun, pasta
+Caviula, chicken
+vugg, chicken
+wchibli, pasta
+Brooks, chicken
+D'Agostino, chicken
+Lee, pasta
+wulli, pasta
+Hellligel, chicken
+Kip, pasta
+Bmynk, chicken
+Johanson, pasta
+Yodice, chicken
+Heiser, pasta
+Guasyi, chicken
+O'Neaill, pasta
+Jynyseeeek, pasta
+Nyland, pasta
+Farmer, special
+Stlayel, special
+Moreyn, chicken
+peKeown, chicken
+Latolle, pasta
+Manfra, pasta
+Weeeebeeeem, special
+Hill, pasta
+Jaekson, chicken
+Biglin, pasta
+Rudamar, chicken
+Beeeedymd, chicken
+Sisimon, chicken
+Yeeeepeeeez, chicken
+Rossini, pasta
+Ridmand, pasta
+isjimirindi, pasta
+McMihon, chicken
+Peellyck, pasta
+Kapp, special
+Antunev, chicken
+Myngeeneeee, special
+-----------------------------
+Please enter one of the following.
+0: Add Passenger
+1: List Planes
+2: List Passengers
+3: Display Food Count
+4: Find Passenger
+5: Find Plane
+6: Exit
+
+3
+Enter a Plane ID to display food count for.
+9002
+-----------------------------
+Running comparisons...
+COMPARE: 9002 TO 9017
+TOP: 14
+COMPARE: 9002 TO 9009
+TOP: 6
+COMPARE: 9002 TO 9005
+TOP: 2
+COMPARE: 9002 TO 9003
+TOP: 0
+Plane found.
+-----------------------------
+Snacks: 43
+-----------------------------
+Please enter one of the following.
+0: Add Passenger
+1: List Planes
+2: List Passengers
+3: Display Food Count
+4: Find Passenger
+5: Find Plane
+6: Exit
+
+3
+Enter a Plane ID to display food count for.
+9004
+-----------------------------
+Running comparisons...
+COMPARE: 9004 TO 9017
+TOP: 14
+COMPARE: 9004 TO 9009
+TOP: 6
+COMPARE: 9004 TO 9005
+TOP: 2
+COMPARE: 9004 TO 9003
+BOTTOM: 2
+Plane found.
+-----------------------------
+Chicken: 31
+Pasta: 36
+Specials: 12
+-----------------------------
+Please enter one of the following.
+0: Add Passenger
+1: List Planes
+2: List Passengers
+3: Display Food Count
+4: Find Passenger
+5: Find Plane
+6: Exit
+
+4
+Enter a Plane ID for passenger lookup.
+9002
+-----------------------------
+Running comparisons...
+COMPARE: 9002 TO 9017
+TOP: 14
+COMPARE: 9002 TO 9009
+TOP: 6
+COMPARE: 9002 TO 9005
+TOP: 2
+COMPARE: 9002 TO 9003
+TOP: 0
+Plane found.
+-----------------------------
+Enter a passenger name to look for.
+Antunev
+-----------------------------
+Passenger found.
+Passenger Antunev is sitting on row 22, seat 1.
+-----------------------------
+Please enter one of the following.
+0: Add Passenger
+1: List Planes
+2: List Passengers
+3: Display Food Count
+4: Find Passenger
+5: Find Plane
+6: Exit
+
+4
+Enter a Plane ID for passenger lookup.
+9002
+-----------------------------
+Running comparisons...
+COMPARE: 9002 TO 9017
+TOP: 14
+COMPARE: 9002 TO 9009
+TOP: 6
+COMPARE: 9002 TO 9005
+TOP: 2
+COMPARE: 9002 TO 9003
+TOP: 0
+Plane found.
+-----------------------------
+Enter a passenger name to look for.
+Anderson
+-----------------------------
+Passenger not here.
+-----------------------------
+Please enter one of the following.
+0: Add Passenger
+1: List Planes
+2: List Passengers
+3: Display Food Count
+4: Find Passenger
+5: Find Plane
+6: Exit
+
+5
+Enter a Plane ID to search for.
+9003
+-----------------------------
+Running comparisons...
+COMPARE: 9003 TO 9017
+TOP: 14
+COMPARE: 9003 TO 9009
+TOP: 6
+COMPARE: 9003 TO 9005
+TOP: 2
+Plane found.
+-----------------------------
+9003, Chicago, 1, no, 24, 4, 20/96: Plane not full.
+-----------------------------
+Please enter one of the following.
+0: Add Passenger
+1: List Planes
+2: List Passengers
+3: Display Food Count
+4: Find Passenger
+5: Find Plane
+6: Exit
+
+6
+-----------------------------
+Exiting.
+-----------------------------

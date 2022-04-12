@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=b\ min\ max
+comment1.target=int\ partition(BookNode[],\ int,\ int)
+comment1.text=\ Partition\r\n\r\n\ Description\:\ This\ function\ will\ select\ a\ pivot\ pointa\ and\ sort\ all\ data\ to\ one\ side\ of\ the\ pivot\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ along\ with\ QuikSort.\r\n\r\n\ @param\ b\ \ \ \ \ -\ \ \ Array\ of\ Book\ Objects\r\n\ @param\ min\ \ \ -\ \ \ Minimum\ index\ of\ partition\r\n\ @param\ max\ \ \ -\ \ \ Maximum\ index\ of\ partition\r\n\ @return\ \ \ \ \ \ -\ \ \ Returns\ the\ pivot\ point.\r\n
+comment2.params=b\ min\ max
+comment2.target=void\ quikSort(BookNode[],\ int,\ int)
+comment2.text=\ QuikSort\r\n\r\n\ Description\:\ This\ function\ will\ act\ as\ the\ driver\ of\ the\ quick\ sort\ algorithm\ to\ sort\ the\ array\ of\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ plane\ objects.\r\n\r\n\ @param\ b\ \ \ \ \ -\ \ \ Array\ of\ Book\ Objects\r\n\ @param\ min\ \ \ -\ \ \ Minimum\ index\ of\ partition\r\n\ @param\ max\ \ \ -\ \ \ Maximum\ index\ of\ partition\r\n\ @return\ \ \ \ \ \ -\ \ \ Void\ return\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
