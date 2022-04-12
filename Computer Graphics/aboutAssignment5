@@ -1,0 +1,7 @@
+Assignment 5 was focused on creating a more advanced graphics rendering engine with ray-tracing capabilities.
+
+A scene is defined with three spheres of different sizes and color, as well as a checkerboard floor and a skybox with a default color.
+
+For each pixel, a ray is cast from the "camera's" perspective. If it collides with an object, another ray is cast reflecting off of that object up to a certain depth (to prevent endlessly reflecting). The color of that pixel is determined by the last object it hits, and the depth of the number of reflections the ray made.
+
+The spheres can also cast shadows on one another.
