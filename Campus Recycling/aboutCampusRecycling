@@ -1,0 +1,3 @@
+The goal of this program was too demonstrate the use of a depth-first-search in a node and edge based tree system, but under a unique premise: a recycling crew wanting to determine the fastest route through Louisiana Tech's campus streets to empty the recycling bins of each facility.
+
+The node and edge system was set up, as well as the depth-first-search algorithm. Then, each major building to neighboring buildings was given an edge with an appropriate numerical weight given to it based on real-world distance. To reflect one-way streets, some nodes have neighbors that they do not point to. The depth-first-search algorithm was then performed on the established tree to find the least cost route.
