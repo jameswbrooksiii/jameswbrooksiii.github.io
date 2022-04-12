@@ -1,0 +1,6 @@
+	Greetings. This is the paragraph that the Word Count program will read. The definition of a paragraph is "a 
+distinct section of a piece of writing, usually dealing with a single theme and indicated by a new line, 
+indentation, or numbering" according to a Google search. Many English teachers teach that a paragraph is five to 
+seven sentences long. This program can handle indentations and new lines. The scanner properly splits any white 
+space, so the original text file that the program is reading is formatted like a paragraph that fits my default 
+window size. I am very aware that this program is being turned in very late: I really struggled with this one. 

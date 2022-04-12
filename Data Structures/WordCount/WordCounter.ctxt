@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WordCounter
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WordCounter\r\n
+comment2.params=File
+comment2.target=List\ FileScanner(java.io.File)
+comment3.params=WordList
+comment3.target=List\ SortList(List)
+comment4.params=WordList
+comment4.target=void\ WriteReport(List)
+numComments=5
