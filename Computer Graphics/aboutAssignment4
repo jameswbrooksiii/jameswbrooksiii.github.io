@@ -1,0 +1,14 @@
+Assignment 4 was a culmination of a simple graphics rendering engine that we had been working on adding new features throughout the entire quarter.
+
+Assignment 4 renders a octagonal cylinder, by default in wireframe. The cylinder can be scaled, rotated, and moved.
+
+Pressing the 1-6 keys will change the rendering mode.
+
+1. Wireframe
+2. Color Fill and Wireframe
+3. Color Fill
+4. Flat Shading
+5. Gouraud Shading
+6. Phong Shading
+
+The program also supports rendering multiple objects and selecting them individually, as well as a Z-Buffer to handle the multiple objects clipping, but that was mainly in Assignment 3, which I believe I lost.
