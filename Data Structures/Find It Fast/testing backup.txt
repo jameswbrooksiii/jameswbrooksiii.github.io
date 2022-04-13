@@ -1,0 +1,81 @@
+##################################
+# SCENARIO I: "Ickle" in Input 1 #
+##################################
+
+print("----------------------------------------------\n\nBEGINNING SCENARIO I: \"Ickle\" in Input 1")
+LL = LinkedList() # initializes a Linked List for the main text
+text = open('prog1input1.txt', 'r').read() # opens the first file
+print("Inserting text from input 1 into list...")
+for i in range(len(text)):
+    LL.insert(text[i]) # inserts each character from the text as a node into the main text linked list
+print("Done.")
+pattern = "Ickle"
+print("Searching for Pattern: {}\n\n----------------------------------------------".format(pattern))
+PL = LinkedList() # initializes a Linked List for the pattern substring
+for i in range(len(pattern)):
+    PL.insert(pattern[i]) # inserts each character from the pattern as a node into the substring linked list
+
+# Running each algorithm with the given string and substring pattern
+BF(LL, PL)
+KMP(LL, PL)
+BM(LL, PL)
+
+##################################
+# SCENARIO II: "toot" in Input 1 #
+##################################
+
+print("----------------------------------------------\n\nBEGINNING SCENARIO II: \"toot\" in Input 1")
+print("Main List already initialized.")
+pattern = "toot"
+print("Searching for Pattern: {}\n\n----------------------------------------------".format(pattern))
+PL = LinkedList() # initializes a Linked List for the pattern substring
+for i in range(len(pattern)):
+    PL.insert(pattern[i]) # inserts each character from the pattern as a node into the substring linked list
+
+# Running each algorithm with the given string and substring pattern
+BF(LL, PL)
+KMP(LL, PL)
+BM(LL, PL)
+
+####################################
+# SCENARIO III: "mmmmm" in Input 2 #
+####################################
+
+print("----------------------------------------------\n\nBEGINNING SCENARIO III: \"mmmmm\" in Input 2")
+LL = LinkedList() # initializes a Linked List for the main text
+text = open('prog1input2.txt', 'r').read() # opens the second file
+print("Inserting text from input 2 into list...")
+for i in range(len(text)):
+    LL.insert(text[i]) # inserts each character from the text as a node into the main text linked list
+print("Done.")
+pattern = "mmmmm"
+print("Searching for Pattern: {}\n\n----------------------------------------------".format(pattern))
+PL = LinkedList() # initializes a Linked List for the pattern substring
+for i in range(len(pattern)):
+    PL.insert(pattern[i]) # inserts each character from the pattern as a node into the substring linked list
+
+# Running each algorithm with the given string and substring pattern
+BF(LL, PL)
+KMP(LL, PL)
+BM(LL, PL)
+
+###################################
+# SCENARIO IV: "mmmom" in Input 2 #
+###################################
+
+print("----------------------------------------------\n\nBEGINNING SCENARIO IV: \"toot\" in Input 1")
+print("Main List already initialized.")
+pattern = "mmmom"
+print("Searching for Pattern: {}\n\n----------------------------------------------".format(pattern))
+PL = LinkedList() # initializes a Linked List for the pattern substring
+for i in range(len(pattern)):
+    PL.insert(pattern[i]) # inserts each character from the pattern as a node into the substring linked list
+
+# Running each algorithm with the given string and substring pattern
+BF(LL, PL)
+KMP(LL, PL)
+BM(LL, PL)
+
+print("----------------------------------------------")
+print("\nALL SEARCHES FINISHED.\n")
+print("----------------------------------------------")
