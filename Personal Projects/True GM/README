@@ -1,0 +1,5 @@
+This was a Discord chat bot I created to run while I went on a vacation out of the country.
+
+The core concept of this was to have the chat bot pretend to be me as a Dungeons and Dragons GM while I was away. Whenever the chat bot was messaged, it would pull a random response from a list of pre-written responses, and send it to the channel. Each response had its own weight value attached to it, so some responses could be very common, and others would be extremely rare.
+
+Additionally, I created a few batch files and other small scripts that were scheduled to run each day that I was gone, which would send a pre-written message that acted as that day's "writing prompt".
